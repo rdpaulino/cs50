@@ -28,6 +28,7 @@ Richard Paulino's scripts from Harvard's CS50 Introduction to Computer Science
 ### Election Simulators
 ```runoff.c```
 - Program that simulates a runoff election.
+
 ```plurality.c```
 - Program that simulates a plurality vote election.
 
